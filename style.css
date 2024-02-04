@@ -1,8 +1,8 @@
 /* This is a style sheet */
 
 body {
-	background-color: #2E3236;
-	color: #DEDEDF;
+	background-color: #2E3236!important;
+	color: #DEDEDF!important;
 }
 
 a:link,a:visited,a:hover,a:active {
