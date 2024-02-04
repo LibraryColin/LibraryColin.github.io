@@ -1,6 +1,10 @@
 /* This is a style sheet */
 
 body {
-	background-color: #fffaf5;
-	color: #003366;
+	background-color: #2E3236;
+	color: #DEDEDF;
+}
+
+a:link,a:visited,a:hover,a:active {
+	color: #9FEEFF;
 }
