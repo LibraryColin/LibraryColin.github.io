@@ -1,7 +1,11 @@
 /* This is a style sheet */
 
 body {
-	background-color: #2E3236!important;
+	/*background-color: #2E3236!important;*/
+	background-image: url("images/background.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-size: 100% 100%;
 	color: #DEDEDF!important;
 }
 
